@@ -1,7 +1,7 @@
 # Unity2020.3.18f1-README-Template
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+Wir haben ein 2D Spiel entwickelt. ZieL des Spieles ist im Weltall so schnell wie möglich 10 Aliens zu treffen.
 
 ### Entwicklungsplattform: 
 (Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
