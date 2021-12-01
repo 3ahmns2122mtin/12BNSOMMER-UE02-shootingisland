@@ -37,9 +37,4 @@ https://www.youtube.com/watch?v=xeU9RkQRVEM
 - [x] Earth (Orbit/Moon)
 - [x] Mars
 
-### Limitationen:
-Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von den Anforderungen nicht umgesetz. Wo waren die Probleme. 
-
-
-
 Copyright by you :)
