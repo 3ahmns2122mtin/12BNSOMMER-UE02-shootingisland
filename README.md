@@ -4,17 +4,13 @@
 Wir haben ein 2D Spiel entwickelt. ZieL des Spieles ist im Weltall so schnell wie möglich 10 Aliens zu treffen.
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
-
-### Visuelle Einblicke in das Projekt:
-
 die Spielbare Version:
 https://3ahmns2122mtin.github.io/12BNSOMMER-UE02-shootingisland/
 
-Screenshot:
+### Visuelle Einblicke in das Projekt:
 ![ShootinIsland](https://user-images.githubusercontent.com/90834410/144325078-1ad854d9-f7cb-4fc4-bbfd-152a82c76c47.png)
 
 ### Notwendiges für die Ausführung: 
